@@ -1,0 +1,2 @@
+user-agent: *
+sitemap: https://sveltekit-blog-starter.vercel.app/sitemap.xml
